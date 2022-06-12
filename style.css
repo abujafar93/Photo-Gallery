@@ -1,0 +1,29 @@
+body {
+  background: #8b0522;
+  margin-top: 20px;
+  font-family: arial;
+  color: white;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+.thumbnails img {
+  height: 80px;
+  border: 4px solid #e4396c;
+  padding: 1px;
+  margin: 0 20px 10px 20px;
+}
+
+.thumbnails img:hover {
+  border: 4px solid #e7baba;
+}
+
+.display img {
+  border: 4px solid #f30707;
+  padding: 1px;
+  margin-top: 20px;
+  width: 500px;
+  height: 400px;
+}
